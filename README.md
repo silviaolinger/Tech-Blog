@@ -9,4 +9,4 @@ https://github.com/silviaolinger/Tech-Blog
  - GitHub:
  https://silviaolinger.github.io/Tech-Blog/
  - Heroku:
- https://desolate-dawn-26064.herokuapp.com/
+ https://quiet-temple-44287.herokuapp.com/
